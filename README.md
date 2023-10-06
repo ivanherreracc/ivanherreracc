@@ -1,4 +1,4 @@
-### Hi there, My name is Ivan.
+
 <h1>Hi, I'm Ivan, an <a href="https://www.linkedin.com/in/ivan-herrera-ITCC">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
